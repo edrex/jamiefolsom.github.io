@@ -1,1 +1,1 @@
-Github pages jeykll site setup test.
+Github pages jekyll site setup test.
