@@ -15,8 +15,13 @@ prose:
           value: "blog"
       - name: "layout"
         field:
-          element: "hidden"
-          value: "default"
+          element: "select"
+          label: "Choose layout"
+          options:
+            - name: "Default"
+              value: "default"
+            - name: "Post"
+              value: "post"
       - name: "title"
         field:
           element: "text"
