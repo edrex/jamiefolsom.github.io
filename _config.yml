@@ -1,7 +1,6 @@
 name: Jekyll Site for my Github Account (jamiefolsom)
 markdown: redcarpet
 pygments: true
-baseurl: /
 permalink: pretty
 prose:
   rooturl: '_posts'
