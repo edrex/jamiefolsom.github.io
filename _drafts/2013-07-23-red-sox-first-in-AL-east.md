@@ -3,7 +3,7 @@ category:
   - blog
   - news
 published: true
-title: Red Sox Still First in AL East
+title: ""
 layout: post
 tags: 
   - politics
