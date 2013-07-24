@@ -2,7 +2,7 @@
 category: blog
 published: true
 title: Latest progress with Jekyll and GH Pages
-layout: default
+layout: post
 ---
 
 ## Foundation 
