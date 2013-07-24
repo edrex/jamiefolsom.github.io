@@ -1,6 +1,6 @@
 ---
 category: blog
-published: false
+published: true
 title: Another post
 layout: post
 ---
