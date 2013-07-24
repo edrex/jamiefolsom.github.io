@@ -1,6 +1,6 @@
 ---
 category: blog
-published: false
+published: true
 title: Latest progress with Jekyll and GH Pages
 layout: default
 ---
