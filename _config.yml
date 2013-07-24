@@ -9,10 +9,17 @@ prose:
   media: 'assets'
   metadata:
     _posts:
-      - name: "category"
+      - name: "type"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "select"
+          label: "Type"
+          options:
+            - name: "News"
+              value: "news"
+            - name: "Opinion"
+              value: "opinion"
+            - name: "Investigation"
+              value: "investigation"
       - name: "layout"
         field:
           element: "select"
@@ -32,16 +39,21 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
-      - name: "tags"
+      - name: "section"
         field:
           element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
+          label: "Newspaper Section"
+          placeholder: "Choose section(s) of the paper"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Politics"
+              value: "politics"
+            - name: "Sports"
+              value: "sports"
+            - name: "Media"
+              value: "media"
+            - name: "Metro"
+              value: "metro"
+
     _posts/static:
       - name: "layout"
         field:
