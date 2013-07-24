@@ -5,16 +5,16 @@ title: Latest progress with Jekyll and GH Pages
 layout: post
 ---
 
-## Foundation 
+### Foundation 
 I've integrated Foundation
 
-## Drafts
+### Drafts
 Prose does support full draft with in-template preview.
 
-## Metadata
+### Metadata
 It's easy to add categories and tags.
 
-## More to come
+### More to come
 Next steps:
 - Pages per category
 - Mobile testing
