@@ -6,6 +6,7 @@ published: true
 title: Red Sox Still First in AL East
 layout: post
 tags: 
+  - politics
   - sports
   - media
 ---
