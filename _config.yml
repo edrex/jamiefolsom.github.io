@@ -9,7 +9,7 @@ prose:
   media: 'assets'
   metadata:
     _posts:
-      - name: "type"
+      - name: "category"
         field:
           element: "select"
           label: "Type"
@@ -39,10 +39,10 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
-      - name: "section"
+      - name: "tags"
         field:
           element: "multiselect"
-          label: "Newspaper Section"
+          label: "Newspaper Section(s)"
           placeholder: "Choose section(s) of the paper"
           options:
             - name: "Politics"
