@@ -6,7 +6,7 @@ prose:
   rooturl: '_posts'
   siteurl: "http://jamiefolsom.github.io/"
   relativeLinks: 'http://jamiefolsom.github.io/links.jsonp'
-  media: 'assets'
+  media: '_posts/assets'
   metadata:
     _posts:
       - name: "category"
