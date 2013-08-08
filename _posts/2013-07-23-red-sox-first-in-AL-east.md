@@ -11,6 +11,6 @@ tags:
   - media
 ---
 
-![asdf](/_posts/assets/DSC_0041.JPG)
+![asdf](/assets/DSC_0041.JPG)
 
 ## Sox defeat Rays to keep their spot atop the American League East.
