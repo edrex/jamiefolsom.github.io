@@ -11,6 +11,6 @@ tags:
   - media
 ---
 
-![asdf](/_posts/assets/DSC_0041.JPG)
+![asdf](/assets/Screen%20Shot%202012-09-12%20at%201.11.53%20PM.png)
 
 ## Sox defeat Rays to keep their spot atop the American League East.
