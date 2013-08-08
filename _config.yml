@@ -3,6 +3,7 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 prose:
+  rooturl: '_posts'
   siteurl: "http://jamiefolsom.github.io/"
   relativeLinks: 'http://jamiefolsom.github.io/links.jsonp'
   media: 'assets'
